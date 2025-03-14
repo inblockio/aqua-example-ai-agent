@@ -1,2 +1,2 @@
 # aqua-example-ai-agent
-A basic example how to use Aqua Protocol to verify user &amp; agent prompts and outputs.
+Key files to replicate the demo presented on the https://digitalfreedom.substack.com
