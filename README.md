@@ -1,7 +1,7 @@
 # aqua-example-ai-agent
 Key files to replicate the demo presented on the https://digitalfreedom.substack.com
 
-Find artifacts of the PoC for verification in the zip file.
+Find artefacts of the PoC for verification in the zip file.
 
 Thanks to @rht for building the prototype.
 
